@@ -12,6 +12,13 @@
 </div>
 
 ---
+<img width="944" height="437" alt="image" src="https://github.com/user-attachments/assets/b50f6660-6391-4ed1-a205-dc29e2a62f52" />
+<img width="939" height="457" alt="Screenshot - Job Pipeline Control" src="https://github.com/user-attachments/assets/e41a8c67-c504-458e-8751-ae6e55071c21" />
+<img width="805" height="517" alt="Screenshot - Career page - Candidate interaction job page" src="https://github.com/user-attachments/assets/49689690-2584-4c11-a019-156299cd8e25" />
+<img width="716" height="535" alt="Screenshot - Create Job Page" src="https://github.com/user-attachments/assets/c11fd1c5-8158-42bd-a87a-df82e42d4872" />
+
+
+
 
 ## 🌟 Overview
 
